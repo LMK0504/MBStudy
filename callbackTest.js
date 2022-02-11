@@ -1,5 +1,5 @@
 //
-/*
+
 function run() {
     const start = Date.now();
     for (let i = 0; i < 1000000000; i++) {}
@@ -9,7 +9,7 @@ function run() {
  
   run();
   console.log('Done !!!');
-*/
+
 
 /*
 //두번쨰
